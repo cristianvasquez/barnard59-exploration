@@ -1,0 +1,26 @@
+{
+  "name": "barnard59-exploration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianvasquez/barnard59-exploration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianvasquez/barnard59-exploration/issues"
+  },
+  "homepage": "https://github.com/cristianvasquez/barnard59-exploration#readme",
+  "dependencies": {
+    "barnard59": "^1.1.1",
+    "isstream": "^0.1.2",
+    "rdf-ext": "^2.0.1",
+    "rdf-utils-fs": "^2.2.0",
+    "terminal-kit": "^2.4.0"
+  }
+}
